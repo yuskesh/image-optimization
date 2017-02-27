@@ -1,0 +1,22 @@
+{
+  "name": "image-optimization",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yuskesh/image-optimization.git"
+  },
+  "author": "Yusuke Shinozaki <vin.bleu@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yuskesh/image-optimization/issues"
+  },
+  "homepage": "https://github.com/yuskesh/image-optimization#readme",
+  "dependencies": {
+    "imagemin": "^5.2.2",
+    "imagemin-pngquant": "^5.0.0",
+    "sharp": "^0.17.2",
+    "yargs": "^6.6.0"
+  }
+}
