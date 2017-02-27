@@ -9,4 +9,4 @@ $ npm install
 $ node index.js yourfile_path.jpg
 ```
 
-The optimized images are stored in images/tmp directory.
+The optimized images are stored in images/build directory.
